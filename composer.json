@@ -1,0 +1,16 @@
+{
+    "name": "olimata/olimatamvc",
+    "description": "olimataMVC is a PHP Framework",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "olimataframework",
+            "email": "ndoyeolimata@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+       "require": {
+           "smarty/smarty": "~3.1"
+    }
+}
